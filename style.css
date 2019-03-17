@@ -1,0 +1,33 @@
+.btn-danger{
+background-color: Yellow;
+}
+
+.btn-danger:hover{
+
+	background-color: Yellow;
+}
+.col{
+
+	background-color: grey;
+	border: 2px solid black;
+}
+body, html {
+  height: 100%;
+}
+
+.bg { 
+  /* The image used */
+  background-image: url("aaa.jpeg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navbar navbar-expand-lg navbar-light bg-light{
+
+	text-align: center;
+}
